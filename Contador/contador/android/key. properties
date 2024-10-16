@@ -1,0 +1,4 @@
+storePassword=intgest123
+keyPassword=intgest123
+keyAlias=upload
+storeFile=//Users//intgestdev//upload-keystore.jks
